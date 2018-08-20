@@ -2,7 +2,7 @@
   "name": "robofriends",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://plyus1313.github.io/RoboFriends",
+  "homepage": "https://github.com/plyus1313/RoboFriends",
   "dependencies": {
     "gh-pages": "^1.2.0",
     "react": "^16.2.0",
